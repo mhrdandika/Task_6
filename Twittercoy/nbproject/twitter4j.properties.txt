@@ -1,0 +1,5 @@
+debug=true
+ouath.consumerKey=wZtpBBV049s1EijE7oD3pM06u
+ouath.consumerSecret=DbuHUpodYk4r2IYkDai2HM1jGta1BL0eHkieYVCnIxfHGzbKQp
+ouath.accessToken=960311149-DkzoixGvB7PtVIlfHtkGg5GeCelgH08SOUKtI6oE
+ouath.accessTokenSecret=YChGRsLa5hnDFP3nY0hhWH09KRnaFSFKQyVnhq2Gu6IrN
